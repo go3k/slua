@@ -81,7 +81,7 @@ namespace SLua
         {
             "UIWidget.showHandles",
             "UIWidget.showHandlesWithMoveTool",
-	    "UnityEngine.QualitySettings.get_streamingMipmapsRenderersPerFrame",
+            "UnityEngine.QualitySettings.get_streamingMipmapsRenderersPerFrame",
             "UnityEngine.QualitySettings.set_streamingMipmapsRenderersPerFrame",
             "UnityEngine.QualitySettings.streamingMipmapsRenderersPerFrame",
             "UnityEngine.Texture.get_imageContentsHash",
